@@ -2,5 +2,5 @@
 
 int main ()
 { 
-   std::cout << "annageldiyev.se\itnur\n";
+   std::cout << "annageldiyev.seitnur\n";
 }
